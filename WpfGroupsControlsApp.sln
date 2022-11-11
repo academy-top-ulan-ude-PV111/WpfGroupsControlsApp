@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfGroupsControlsApp", "WpfGroupsControlsApp\WpfGroupsControlsApp.csproj", "{7D9C79BE-008C-4117-A611-0E8E6BF9AAFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D9C79BE-008C-4117-A611-0E8E6BF9AAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9C79BE-008C-4117-A611-0E8E6BF9AAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9C79BE-008C-4117-A611-0E8E6BF9AAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9C79BE-008C-4117-A611-0E8E6BF9AAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44B75166-C9D1-4DEB-98A4-37F689D97ABA}
+	EndGlobalSection
+EndGlobal
